@@ -1,0 +1,7 @@
+django
+django-cpf-cnpj
+django-cpf
+django-bootstrap-form
+django-widget-tweaks
+python-dotenv
+whitenoise
